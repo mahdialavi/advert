@@ -2,7 +2,6 @@
 
 
     <head>
-        <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>دیوار</title>
         <link rel="stylesheet" href="/css/bootstrap.min.css">
 
